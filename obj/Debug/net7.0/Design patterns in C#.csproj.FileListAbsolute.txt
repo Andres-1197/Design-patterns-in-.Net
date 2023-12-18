@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\Design patterns in C#\obj\Debug\net7.0\Design patterns in C#.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Design patterns in C#\obj\Debug\net7.0\Design patterns in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Design patterns in C#\obj\Debug\net7.0\Design patterns in C#.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Design patterns in C#\obj\Debug\net7.0\Design patterns in C#.AssemblyInfo.cs
+C:\Users\andre\Desktop\Design patterns in C#\obj\Debug\net7.0\Design patterns in C#.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Design patterns in C#\bin\Debug\net7.0\Design patterns in C#.exe
+C:\Users\andre\Desktop\Design patterns in C#\bin\Debug\net7.0\Design patterns in C#.deps.json
+C:\Users\andre\Desktop\Design patterns in C#\bin\Debug\net7.0\Design patterns in C#.runtimeconfig.json
+C:\Users\andre\Desktop\Design patterns in C#\bin\Debug\net7.0\Design patterns in C#.dll
+C:\Users\andre\Desktop\Design patterns in C#\bin\Debug\net7.0\Design patterns in C#.pdb
+C:\Users\andre\Desktop\Design patterns in C#\obj\Debug\net7.0\Design patterns in C#.dll
+C:\Users\andre\Desktop\Design patterns in C#\obj\Debug\net7.0\refint\Design patterns in C#.dll
+C:\Users\andre\Desktop\Design patterns in C#\obj\Debug\net7.0\Design patterns in C#.pdb
+C:\Users\andre\Desktop\Design patterns in C#\obj\Debug\net7.0\Design patterns in C#.genruntimeconfig.cache
+C:\Users\andre\Desktop\Design patterns in C#\obj\Debug\net7.0\ref\Design patterns in C#.dll
